@@ -14,12 +14,14 @@ Contains customer demographics, services, billing, and churn status
 
 
 **⚙️ Tools & Technologies**
-Python (Pandas, NumPy)
-Data Visualization: Matplotlib, Seaborn
-Jupyter Notebook
+
+* Python (Pandas, NumPy)
+* Data Visualization: Matplotlib, Seaborn
+* Jupyter Notebook
 
 
 **🧹 Data Preprocessing**
+
 Handled missing values (e.g., TotalCharges)
 Converted data types for accurate analysis
 Removed irrelevant columns (e.g., Customer ID)
