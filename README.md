@@ -21,3 +21,20 @@ The repository showcases end-to-end data analysis workflows, including data prep
 📉 Outlier detection and statistical summaries
 
 🗂️ Real-world dataset exploration
+
+**🛠️ Technologies Used**
+
+🐍 Python 
+
+📊 Pandas
+
+🔢 NumPy
+
+📈 Matplotlib
+
+📉 Seaborn 
+
+📓 Jupyter Notebook
+
+📂 Excel / CSV 
+
