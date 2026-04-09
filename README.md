@@ -22,7 +22,7 @@ The repository showcases end-to-end data analysis workflows, including data prep
 
 🗂️ Real-world dataset exploration
 
-**🛠️ Technologies Used**
+# **🛠️ Technologies Used**
 
 🐍 Python 
 
