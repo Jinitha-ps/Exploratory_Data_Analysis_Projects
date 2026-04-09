@@ -24,5 +24,18 @@ The repository showcases end-to-end data analysis workflows, including data prep
 
 # **🛠️ Technologies Used**
 
-🐍 Python ,  📊 Pandas,  🔢 NumPy,  📈 Matplotlib,  📉 Seaborn ,  📓 Jupyter Notebook,  📂 Excel / CSV 
+🐍 Python — Core programming language used for data analysis and data processing
+
+📊 Pandas — Data manipulation and analysis library for handling structured datasets
+
+🔢 NumPy — Numerical computing library for mathematical operations
+
+📈 Matplotlib — Data visualization library for creating charts and graphs
+
+📉 Seaborn — Statistical data visualization library for advanced visualizations
+
+📓 Jupyter Notebook — Interactive environment for data analysis and experimentation
+
+📂 Excel / CSV — Common data sources used for analysis
+
 
