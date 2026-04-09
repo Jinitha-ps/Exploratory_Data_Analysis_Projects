@@ -24,17 +24,5 @@ The repository showcases end-to-end data analysis workflows, including data prep
 
 # **🛠️ Technologies Used**
 
-🐍 Python 
-
-📊 Pandas
-
-🔢 NumPy
-
-📈 Matplotlib
-
-📉 Seaborn 
-
-📓 Jupyter Notebook
-
-📂 Excel / CSV 
+🐍 Python ,  📊 Pandas,  🔢 NumPy,  📈 Matplotlib,  📉 Seaborn ,  📓 Jupyter Notebook,  📂 Excel / CSV 
 
